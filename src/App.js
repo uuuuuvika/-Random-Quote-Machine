@@ -39,9 +39,9 @@ function App() {
 				<h2 id="text">"{data.quote}"</h2>
 				<p id="author"><em>{data.author}</em></p>
 				<div className="d-grid gap-2 d-md-flex justify-content-md-start">
-					<button type="button" className="btn btn-warning" id="new-quote" onClick={newQuote}>Get a quote</button>
-					<button type="button" className="btn btn-secondary" onClick={play}>Said by a whale</button>
-					<button type="button" className="btn btn-info"><a id="tweet-quote" href='https://twitter.com/intent/tweet' target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-twitter"/></a></button>
+					<button className="btn btn-warning" id="new-quote" onClick={newQuote}>Get a quote</button>
+					<button className="btn btn-secondary" onClick={play}>Said by a whale</button>
+					<button className="btn btn-info"><a id="tweet-quote" href='https://twitter.com/intent/tweet' target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-twitter"/></a></button>
 				</div>
 			</div>
 	);
