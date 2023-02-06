@@ -7,4 +7,6 @@ Objective: Build an app that is functionally similar to this: https://random-quo
 
 My added features include sound interpretation. Click the button to hear the quote as if it were spoken by a whale. :)
 
+<a href="https://uuuuuvika.github.io/-Random-Quote-Machine/">Check the Random Quote Machine here.</a>
+
 <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine">Here</a> is the original assessment
