@@ -3,6 +3,4 @@
 
 <img width="1373" alt="cc" src="https://user-images.githubusercontent.com/47716922/216075092-088595ff-c510-4d3e-ba6b-cdfdf82314a5.png">
 
-<a href="https://uuuuuvika.github.io/-Random-Quote-Machine/">Check the Random Quote Machine here.</a>
-
-<a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine">Here</a> is the original assessment
+<kbd><a href="https://uuuuuvika.github.io/-Random-Quote-Machine/">Check the Random Quote Machine here</a></kbd>
