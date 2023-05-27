@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     margin: 0;
     padding: 0;
 }
@@ -8,12 +8,31 @@ a {
     text-decoration: none;
 }
 
+.b {
+    background-color: #774dff;
+    cursor: pointer;
+}
+
+.bb {
+    background-color: #a6ff00;
+    cursor: pointer;
+}
+
+.bbb {
+    background-color: #ff4da6;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #dfdfdf;
+}
+
 #quote-box {
     background: #fff;
     max-width: 400px;
     color: rgb(9, 0, 0);
     padding: 2em;
-    border-radius: 1em;
+    border-radius: 1rem;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -28,11 +47,11 @@ a {
 
 @keyframes quote-box {
     from {
-        box-shadow: 0 0 1px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073;
+        box-shadow: 0 0 1px #fff, 0 0 20px #fff, 0 0 40px #ff6db6, 0 0 80px #86e600, 0 0 90px #0008e6;
     }
     
     to {
-        box-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 190px #ff4da6;
+        box-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 70px #0e41f7, 0 0 80px #774dff, 0 0 90px #4de7ff, 0 0 110px #00ddff;
     }
 }
 
